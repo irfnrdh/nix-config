@@ -23,20 +23,26 @@ in
     zoxide
     starship   # Highly customizable prompt for any shell
 
+    apacheHttpd
+    mysql
+    #mariadb
+
     # Programming
     python3
+    pipx
     # python2
     php
     ruby
     perl
     gawk
+    go
+
 
     # File managers
     nnn
     ranger
     zip
     unzip
-
     # Terminal workspace
     zellij
     toilet
@@ -58,7 +64,7 @@ in
     openssh
     sslh
     tor
-    nginx
+    #nginx
 
     # Pentesting tools
     nmap
@@ -77,7 +83,6 @@ in
     
 
   ];
-
   # programs.fish = {
   #   enable = true;
   #   defaultShell = true;

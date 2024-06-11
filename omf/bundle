@@ -1,2 +1,5 @@
 package fzf
+package vcs
+theme batman
+theme chain
 theme default
